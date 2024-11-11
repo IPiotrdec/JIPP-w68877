@@ -109,4 +109,4 @@ macierze = [
 ]
 operacja = 'dodawanie'
 wynik = zlacz_macierze(macierze, operacja)
-print("Wynik złożonej operacji na macierzach:\n", wynik)
+print("Wynik złożonej operacji na macierzach:\n", wynik) 
